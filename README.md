@@ -1,1 +1,1 @@
-# factorial
+# Snake Game
